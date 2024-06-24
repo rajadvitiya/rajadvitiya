@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Advitiysa Raj 👋
 
-<!--
-**rajadvitiya/rajadvitiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 B-Tech Computer Science student at NIET
+- 💻 Passionate about coding, open source, and software development
+- 🌱 Currently learning React and Node.js
+- 🚀 Interested in web development and AI
+- 📫 How to reach me: rajadvitiya72@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
+- **Other**: REST APIs, SQL, Machine Learning
+
+## Projects
+
+Here are some of my notable projects:
+
+- [**Portfolio Website**](https://github.com/rajadvitiya/portfolio): A personal portfolio website built with React.
+- [**Chat App**](https://github.com/rajadvitiya/chat-app): A real-time chat application using Node.js and Socket.io.
+- [**Machine Learning Model**](https://github.com/rajadvitiya/ml-model): A machine learning model for predicting house prices using Python and scikit-learn.
+
+## Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
