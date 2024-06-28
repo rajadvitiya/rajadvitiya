@@ -1,4 +1,4 @@
-# Hi there, I'm Advitiysa Raj 👋
+# Hi there, I'm Advitiya Raj 👋
 
 ## About Me
 
