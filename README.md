@@ -10,7 +10,7 @@
 
 ## Skills
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**:  Java,Python, JavaScript, C++
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, VS Code
 - **Other**: REST APIs, SQL, Machine Learning
