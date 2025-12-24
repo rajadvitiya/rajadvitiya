@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 B-Tech Computer Science student at NIET
+- 🎓 B.Tech graduate in Computer Science from NIET
 - 💻 Passionate about coding, open source, and software development
 - 🌱 Currently learning React and Node.js
 - 🚀 Interested in web development and AI
@@ -25,4 +25,4 @@ Here are some of my notable projects:
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/advitiya-raj-578790294)
